@@ -30,3 +30,4 @@ Things to do
 * Add tests :wink:
 * Possibly translate to CoffeeScript.
 * Host a minified version on a CDN to keep it as easy as possible to use.
+* Oh yeah, and some performance improvements might be a good idea.
