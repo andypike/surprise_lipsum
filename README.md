@@ -1,5 +1,5 @@
-Surprise Ipsum
-==============
+Surprise Lipsum
+===============
 
 Insipred by James Young and his blog post http://www.welcomebrand.co.uk/thoughts/surprise-lipsum/
 
