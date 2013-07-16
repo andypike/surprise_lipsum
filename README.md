@@ -1,7 +1,7 @@
 Surprise Lipsum
 ===============
 
-Insipred by James Young and his blog post http://www.welcomebrand.co.uk/thoughts/surprise-lipsum/
+Inspired by James Young and his blog post http://www.welcomebrand.co.uk/thoughts/surprise-lipsum/
 
 Usage
 =====
@@ -13,7 +13,19 @@ This will generate some lorem ipsum text for you. In this example the ideal leng
 
 Take a look at ```usage.html``` for an example.
 
+Once you're ready to move to production, just remove the script include :smile:
+
 Warning
 =======
 
-This is just a proof of concept. If you like it, I'll spend some more time on it and add some tests etc.
+This is just a proof of concept. Use it at your own risk!
+
+Things to do
+============
+
+* Browser testing (only tried it in Chrome so far).
+* Add punctuation to generated text.
+* Capitalize words as required.
+* Add tests :wink:
+* Possibly translate to CoffeeScript.
+* Host a minified version on a CDN to keep it as easy as possible to use.
